@@ -12,6 +12,8 @@ Pneumothorax
 Effusion
 Infiltration
 Atelectasis
+
+
 User-Friendly Interface: Simple interface for uploading images and viewing results.
 JSON Response: Provides a JSON response with the disease prediction.
 Technologies Used
